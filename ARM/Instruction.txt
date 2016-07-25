@@ -1,0 +1,6 @@
+To compile:
+gcc ARM_Code.c -o ARM_Code
+
+To run you need sudo permission:
+sudo ./ARM_Code
+

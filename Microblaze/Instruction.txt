@@ -1,0 +1,2 @@
+This is the code that runs on the Microblaze; this folder contains the project to be imported in SDK.
+This project is based on All_pmods architecture: import that project before this one.

@@ -1,0 +1,2 @@
+This is the project with the FPGA architecture.
+The Microblaze project is based on this one: simply import the all_pmods project in SDK prior to Microblaze project.
