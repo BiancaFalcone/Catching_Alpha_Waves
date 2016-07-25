@@ -15,6 +15,7 @@ We used Zybo board to sample with ADC the signal registred from EMG (Electromiog
 
 ##Purpose of the project
 
-Visualize the difference between the EEG (Electroencephalography) trace measured with open and closed eyes.  
+Visualize the difference between the EEG (Electroencephalography) trace measured with open and closed eyes.
+
 
 
